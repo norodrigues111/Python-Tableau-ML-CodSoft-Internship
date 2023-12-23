@@ -3,6 +3,7 @@ DATA SCIENCE TASKS:
 TITANIC SURVIVAL PREDICTION
 SOURCE: https://www.kaggle.com/datasets/yasserh/titanic-dataset/
 TASK: Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily available data.
+Dashboard (Tableu): https://public.tableau.com/views/TitanicDashboard_17033522248720/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 MOVIE RATING PREDICTION WITH PYTHON
 SOURCE: https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies TASK: Build a model that predicts the rating of a movie based on features like genre, director, and actors. You can use regression techniques to tackle this problem.
